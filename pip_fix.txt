@@ -1,0 +1,5 @@
+python -m ensurepip
+Looking in links: C:\Users\RICHAR~1\AppData\Local\Temp\tmp042y7mjxRequirement already satisfied: setuptools in d:\user\documents\smu content\year 3 sem 1\godee internship\python\tutorial_map_plot\.venv\lib\site-packages (40.8.0)
+Collecting pip
+Installing collected packages: pip
+Successfully installed pip-19.0.3
